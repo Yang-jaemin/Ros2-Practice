@@ -18,8 +18,6 @@ class Node1(Node):
 
         self.publisher_ = self.create_publisher(UniversityID, 'university_id_topic', 10)
         self.timer = self.create_timer(1, self.publish_university_id)
-        
-        self.timer = self.create_timer(1, self.publish_university_id)
 
         self.service_ = self.create_service(Multiply, 'multiply_two_ints', self.multiply_two_ints_callback)
         

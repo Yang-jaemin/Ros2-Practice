@@ -1,4 +1,5 @@
-# robot_programming Homework2
+# robot_programming practice
+
 ## Node1: topic, service server, action server
   - Topic Publisher: 학번을 발행
   - Service Server : 두 정수를 입력 받아 곱셈

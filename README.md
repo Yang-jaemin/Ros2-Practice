@@ -1,4 +1,4 @@
-# robot_programming practice
+# Robot Programming practice
 
 ## Node1: topic, service server, action server
   - Topic Publisher: 학번을 발행
